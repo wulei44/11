@@ -1,0 +1,13 @@
+{
+  "test_01register.py": true,
+  "test_06invest.py": true,
+  "test_06invest.py::TestInvest::test_invest_007": true,
+  "test_04Add.py::Test_Add::test_add_001": true,
+  "test_04Add.py::Test_Add::test_add_002": true,
+  "test_05audit.py::TestAudit::test_audit_001": true,
+  "test_05audit.py::TestAudit::test_audit_002": true,
+  "test_05audit.py::TestAudit::test_audit_003": true,
+  "test_05audit.py::TestAudit::test_audit_004": true,
+  "test_05audit.py::TestAudit::test_audit_005": true,
+  "test_05audit.py::TestAudit::test_audit_006": true
+}
